@@ -28,7 +28,7 @@ The **HR Analytics Dashboard** provides an insightful and interactive visualizat
    - Attrition patterns vary across employees from different educational backgrounds.
 
 ## Files Included
-- `HR Analytics Dashboard.twbx`: Tableau workbook containing the complete dashboard and underlying data visualizations.
+- `Sales Performance Dashboard.twbx`: Tableau workbook containing the complete dashboard and underlying data visualizations.
 - `Sales Performance Dashboard.png`: The screenshot of the Sales Performance Dashboard.
 - `Sales Data.xlsx`: The Excel file containing the dataset for creating the Dashboard.
 - `Sales Background.jpg`: Background image used to enhance the dashboard design.
