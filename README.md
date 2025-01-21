@@ -33,7 +33,7 @@ The **HR Analytics Dashboard** provides an insightful and interactive visualizat
 - `HR Data.xlsx`: The Excel file containing the dataset for creating the Dashboard.
 - `HR background.png`: Background image used to enhance the dashboard design.
 
-![screenshot](https://github.com/sumanthsadala/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png?raw=true)
+![screenshot](https://github.com/sumanthsadala/Sales-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard.png?raw=true)
 
 ## How to Use
 1. Open the `HR Analytics Dashboard.twbx` file in Tableau.
