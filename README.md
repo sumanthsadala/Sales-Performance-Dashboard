@@ -36,7 +36,7 @@ The **HR Analytics Dashboard** provides an insightful and interactive visualizat
 ![screenshot](https://github.com/sumanthsadala/Sales-Performance-Dashboard/blob/main/Sales%20Performance%20Dashboard.png?raw=true)
 
 ## How to Use
-1. Open the `HR Analytics Dashboard.twbx` file in Tableau.
+1. Download and open the `HR Analytics Dashboard.twbx` file in Tableau.
 2. Explore the dashboard using filters to gain insights into employee attrition across various dimensions like departments, education fields, and gender.
 3. Use the insights to develop strategies for reducing attrition and improving employee satisfaction.
 
